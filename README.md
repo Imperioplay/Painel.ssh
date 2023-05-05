@@ -1,6 +1,6 @@
 # SSHPLUS
 
-apt update -y && apt upgrade -y && wget https://raw.githubusercontent.com/Imperioplay/SSHVIP/main/Plus && chmod 777 Plus && ./Plus
+apt update -y && apt upgrade -y && wget https://raw.githubusercontent.com/Imperioplay/Painel.ssh/main/Plus && chmod 777 Plus && ./Plus
 
 
 #Acessa Root
